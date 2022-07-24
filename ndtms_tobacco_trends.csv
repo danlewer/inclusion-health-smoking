@@ -1,0 +1,76 @@
+year,quarter,monthname,period_end,substance,N,tobacco
+2017,2,September,2017-09-30,Alcohol,15821,6234
+2017,2,September,2017-09-30,Alcohol and non-opiate,5060,2983
+2017,2,September,2017-09-30,Non-opiate,3498,1834
+2017,2,September,2017-09-30,Opiate,22615,14589
+2017,2,September,2017-09-30,Total,46994,25640
+2017,3,December,2017-12-31,Alcohol,15957,6717
+2017,3,December,2017-12-31,Alcohol and non-opiate,5113,3146
+2017,3,December,2017-12-31,Non-opiate,3508,1978
+2017,3,December,2017-12-31,Opiate,22909,15474
+2017,3,December,2017-12-31,Total,47487,27315
+2018,4,March,2018-03-31,Alcohol,15475,6780
+2018,4,March,2018-03-31,Alcohol and non-opiate,4967,3084
+2018,4,March,2018-03-31,Non-opiate,3380,1966
+2018,4,March,2018-03-31,Opiate,22588,15647
+2018,4,March,2018-03-31,Total,46410,27477
+2018,1,June,2018-06-30,Alcohol,15467,6934
+2018,1,June,2018-06-30,Alcohol and non-opiate,5133,3206
+2018,1,June,2018-06-30,Non-opiate,3429,2026
+2018,1,June,2018-06-30,Opiate,23059,16176
+2018,1,June,2018-06-30,Total,47088,28342
+2018,2,September,2018-09-30,Alcohol,15742,7162
+2018,2,September,2018-09-30,Alcohol and non-opiate,5243,3328
+2018,2,September,2018-09-30,Non-opiate,3527,2114
+2018,2,September,2018-09-30,Opiate,22790,16111
+2018,2,September,2018-09-30,Total,47302,28715
+2018,3,December,2018-12-31,Alcohol,16013,7400
+2018,3,December,2018-12-31,Alcohol and non-opiate,5323,3411
+2018,3,December,2018-12-31,Non-opiate,3596,2194
+2018,3,December,2018-12-31,Opiate,23101,16363
+2018,3,December,2018-12-31,Total,48033,29368
+2019,4,March,2019-03-31,Alcohol,15589,7309
+2019,4,March,2019-03-31,Alcohol and non-opiate,5202,3378
+2019,4,March,2019-03-31,Non-opiate,3553,2216
+2019,4,March,2019-03-31,Opiate,23029,16406
+2019,4,March,2019-03-31,Total,47373,29309
+2019,1,June,2019-06-30,Alcohol,15776,7386
+2019,1,June,2019-06-30,Alcohol and non-opiate,5383,3525
+2019,1,June,2019-06-30,Non-opiate,3606,2269
+2019,1,June,2019-06-30,Opiate,23431,16555
+2019,1,June,2019-06-30,Total,48196,29735
+2019,2,September,2019-09-30,Alcohol,16137,7553
+2019,2,September,2019-09-30,Alcohol and non-opiate,5627,3750
+2019,2,September,2019-09-30,Non-opiate,3756,2364
+2019,2,September,2019-09-30,Opiate,23538,16705
+2019,2,September,2019-09-30,Total,49058,30372
+2019,3,December,2019-12-31,Alcohol,15756,7368
+2019,3,December,2019-12-31,Alcohol and non-opiate,5653,3744
+2019,3,December,2019-12-31,Non-opiate,3687,2315
+2019,3,December,2019-12-31,Opiate,23529,16711
+2019,3,December,2019-12-31,Total,48625,30138
+2020,4,March,2020-03-31,Alcohol,15608,7230
+2020,4,March,2020-03-31,Alcohol and non-opiate,5615,3718
+2020,4,March,2020-03-31,Non-opiate,3722,2364
+2020,4,March,2020-03-31,Opiate,23257,16553
+2020,4,March,2020-03-31,Total,48202,29865
+2020,1,June,2020-06-30,Alcohol,15131,7089
+2020,1,June,2020-06-30,Alcohol and non-opiate,5489,3647
+2020,1,June,2020-06-30,Non-opiate,3766,2376
+2020,1,June,2020-06-30,Opiate,24318,17307
+2020,1,June,2020-06-30,Total,48704,30419
+2020,2,September,2020-09-30,Alcohol,15471,7148
+2020,2,September,2020-09-30,Alcohol and non-opiate,5737,3811
+2020,2,September,2020-09-30,Non-opiate,4015,2533
+2020,2,September,2020-09-30,Opiate,24776,17587
+2020,2,September,2020-09-30,Total,49999,31079
+2020,3,December,2020-12-31,Alcohol,16109,7546
+2020,3,December,2020-12-31,Alcohol and non-opiate,5956,3964
+2020,3,December,2020-12-31,Non-opiate,4239,2676
+2020,3,December,2020-12-31,Opiate,24439,17190
+2020,3,December,2020-12-31,Total,50743,31376
+2021,4,March,2021-03-31,Alcohol,16475,7635
+2021,4,March,2021-03-31,Alcohol and non-opiate,6043,4008
+2021,4,March,2021-03-31,Non-opiate,4400,2731
+2021,4,March,2021-03-31,Opiate,23727,16525
+2021,4,March,2021-03-31,Total,50645,30899
