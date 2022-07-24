@@ -11,8 +11,9 @@ agelims <- c(18, seq(20, 65, 5))
 d[, age_group := findInterval(actage, agelims)]
 d[, age_group := factor(age_group, seq_along(agelims), agelims)]
 d[, sex := factor(sexz, 1:2, c('male', 'female'))]
+d[, wt := as.numeric(d$`@weight0`)]
 
-sts_summary <- d[!is.na(age_group) & !is.na(cigsmok) & !is.na(sex), .N, c('q', 'age_group', 'sex', 'cigsmok')]
+sts_summary <- d[!is.na(age_group) & !is.na(cigsmok) & !is.na(sex), .(N = .N, wtN = sum(wt)), c('q', 'age_group', 'sex', 'cigsmok')]
 sts_summary <- sts_summary[order(q, age_group, sex, cigsmok)]
 
 fwrite(sts_summary, 'sts_summary_24july2022.csv')
